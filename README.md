@@ -1,2 +1,1 @@
-# burger
-BurgerApp
+# burgerApp
